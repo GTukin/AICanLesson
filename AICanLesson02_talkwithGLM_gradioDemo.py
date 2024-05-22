@@ -28,7 +28,7 @@ def generate_token(apikey: str, exp_seconds: int):
     )
 
 api_key = os.environ["ZHIPUAI_API_KEY"]
-token = generate_token(api_key, 60)
+token = generate_token(api_key, 200)
 url = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
 headers = {
     "Content-Type": "application/json",

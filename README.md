@@ -7,3 +7,5 @@ AICanLesson01.py：设计师的AI编程入门#2 从零开始部署一个自己�
 AICanLesson02_talkwithGLM_gradioDemo.py:设计师的AI编程入门#3 提供的与GLM对话的gradio Demo
 
 AICanLesson02_MBTItranslation.py：设计师的AI编程入门#3 MBTI翻译器实例
+
+AICanLesson03_MBTI_WebCrawler.py：设计师的AI编程入门#4 设计师的基础爬虫与数据分析
